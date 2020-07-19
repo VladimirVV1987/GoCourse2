@@ -23,7 +23,7 @@ func main() {
 }
 
 // num0Elem, err:= fmt.Scanln(&deposit, &procent)
-// if err != nill{
+// if err != nill{ 
 //   fmt.Println(err)
 //
 // }
